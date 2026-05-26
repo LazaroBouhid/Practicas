@@ -1,0 +1,13 @@
+﻿<!doctype html>
+<html>
+<head>
+<title>Noticias_Noticieras</title>
+</head>
+<body>
+<h1>Noticias_Noticieras</h1>
+<h1>¿Cristina es viceprecidenta o actriz?</h1>
+<p> segun informacion oficial del <a href="https://www.eltribuno.com/salta/ttag/ataque-a-cristina-kirchner">EL TRIBUNO</a>
+</body>
+<hr>
+Bouhid, Lazaro Ivan
+</html> 
